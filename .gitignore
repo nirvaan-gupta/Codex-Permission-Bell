@@ -1,0 +1,13 @@
+# Local credentials and generated builds
+.local/
+dist/
+.build-cache/
+*.app/
+*.dSYM/
+*.zip
+
+# macOS and Python
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
